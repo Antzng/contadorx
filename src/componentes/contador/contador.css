@@ -1,0 +1,9 @@
+div {
+    display: grid;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+
+.botones {
+    display: flex;
+}
